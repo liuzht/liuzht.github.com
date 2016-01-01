@@ -1,11 +1,11 @@
 header{
     
 }
-left{
+#left{
     width:20%;
     float:left;
 }
-body{
+#body{
     width:80%;
     float:right;
 }
